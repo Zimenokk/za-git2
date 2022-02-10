@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I don't like programming sooo much!
+=======
+I like programming soooo much!
+>>>>>>> hw-view
