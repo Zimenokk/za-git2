@@ -1,2 +1,2 @@
 Hello, dear friend!
-Check your remote changes, pls!
+Check your local changes, pls!
